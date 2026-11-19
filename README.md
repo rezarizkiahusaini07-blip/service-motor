@@ -1,7 +1,7 @@
 # BE bike engine - Sistem Informasi Service Motor (Laravel + MySQL XAMPP + API Postman + Git)
 
 ## Cara Pasang di XAMPP (`htdocs`)
-1. Ekstrak folder `service_motor-laravel` ke dalam `C:\xampp\htdocs\`.
+1. Ekstrak folder `service-motor_laravel` ke dalam `C:\xampp\htdocs\`.
 2. Buka **XAMPP Control Panel**, klik **Start** pada **Apache** dan **MySQL**.
 3. Buka browser dan akses:
    `http://localhost/service-motor_laravel/public`
